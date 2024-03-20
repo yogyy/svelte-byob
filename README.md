@@ -8,7 +8,7 @@ This is a slimmed down version of the [SvelteKit BYOB](https://github.com/Rykuno
 
 - SvelteKit
 - TailwindCSS
-- Drizzle
+- Drizzle - postgres
 - Hono
 - Lucia
 
